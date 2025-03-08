@@ -1,4 +1,4 @@
-# Gestión de la Ciberseguridad_2024_2
+# Gestión de la Ciberseguridad_2025_2
 
 Repositorio de curso "GESTION DE LA CIBRESEGURIDAD 2024"
 
