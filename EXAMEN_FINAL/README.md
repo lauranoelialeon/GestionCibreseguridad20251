@@ -1,6 +1,6 @@
 # Gestión de la Ciberseguridad_2025_2
 
-Repositorio de curso "GESTION DE LA CIBRESEGURIDAD 2024"
+Repositorio de curso "GESTION DE LA CIBRESEGURIDAD 2025-1"
 
 ## Actividades
 
@@ -12,8 +12,7 @@ Apreciados estudiantes, tal y como se socializó en clase, este artículo corres
 
 ## Producto.
       
-Artículo de reflexión el cual debe ser entregado en la última clase de nuestro curso, y una entrega el 5 de octubre.
-Al respecto tener en cuenta:
+Artículo de reflexión el cual debe ser entregado en la última clase de nuestro curso.
 
 ## Propósito: 
 Desarrollo de competencias de investigación, uso de herramientas como los repositorios para generar inteligancia y colaboración; elemenos estos claves en la gestión de la cibereseguridad.
@@ -22,7 +21,7 @@ Desarrollo de competencias de investigación, uso de herramientas como los repos
   
   Mediante el desarrollo de un artículo de investigación de manera grupal y haciendo uso de repositorio github.
 
-- Contexto.
+- **Contexto**.
 
 La **identidad digital** se refiere al conjunto de atributos, información y representaciones que permiten identificar a una persona, organización o sistema dentro del entorno digital. Esta identidad es fundamental para establecer la confianza y seguridad en los espacios virtuales, ya que permite autenticar a los usuarios y garantizar que tienen los permisos adecuados para acceder a recursos, servicios y datos. En la gestión de la ciberseguridad, la **identidad digital** se convierte en un pilar central, no solo para proteger sistemas y datos, sino también para gestionar riesgos relacionados con el acceso y uso indebido de información.
 
@@ -40,7 +39,8 @@ La construcción de la identidad digital es un proceso continuo que incluye vari
 5. **Monitorización**: La identidad digital debe ser continuamente monitoreada para detectar usos indebidos, accesos sospechosos o compromisos de seguridad. Esto implica el análisis de patrones de comportamiento y la utilización de tecnologías como el análisis de riesgo adaptativo.
 
 ### Huella digital y su relación con la identidad digital:
-La **huella digital** es el rastro que dejamos al interactuar en entornos digitales. Está compuesta por toda la información que generamos, consciente o inconscientemente, mientras navegamos por la web, utilizamos redes sociales, realizamos transacciones o utilizamos servicios en línea. Esta información incluye:
+
+La **huella digital** es el rastro que dejamos al interactuar en entornos digitales. Está compuesta por toda la información que generamos, consciente o inconscientemente. Mientras navegamos por la web, utilizamos redes sociales, realizamos transacciones o utilizamos servicios en línea. Esta información incluye:
 
 - Publicaciones en redes sociales
 - Búsquedas en internet
@@ -95,9 +95,6 @@ Con aprecio;
 Jaider Ospina Navas
 
 PD: Igresar en el indice cada uno de los artículos aportados al repositorio con el fin de no duplicar fuentes.
-Con aprecio;
-
-Jaider Ospina Navas
 
 # Sustentación.
 
