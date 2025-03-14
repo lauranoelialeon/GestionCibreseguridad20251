@@ -1,1 +1,1 @@
-# GestionCibreseguridad20251
+# GestionCiberseguridad2025
